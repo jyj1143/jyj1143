@@ -15,7 +15,7 @@
 ### Personal Page 💬
 <a href="https://velog.io/@jyj1143">
     <img 
-        src="http://img.shields.io/badge/-Blog-blue?style=flat&logo=Tistory&link=https://blog.naver.com/zbqmgldjfh"
+        src="http://img.shields.io/badge/-Blog-blue?style=flat&logo=velog&link=https://blog.naver.com/zbqmgldjfh"
         style="height : auto; margin-left : 20px; margin-right : 20px;"/>
 </a>
 
