@@ -23,10 +23,11 @@
     
 ### Stacks 💻
 
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-lightgrey?style=flastic&logo=GitHub&logoColor=#181717"/> <img src="https://img.shields.io/badge/Spring-9cf?style=flastic&logo=Spring&logoColor=#6DB33F"/>  <img src="https://img.shields.io/badge/SpringBoot-9cf?style=flastic&logo=Spring-Boot&logoColor=#6DB33F"/> <img src="https://img.shields.io/badge/Hibernate-success?style=flastic&logo=Hibernate&logoColor=#59666C"/> <img src="https://img.shields.io/badge/IntelliJ IDEA-important?style=flastic&logo=IntelliJ-IDEA&logoColor=#181717"/>   \
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />  <img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-lightgrey?style=flastic&logo=GitHub&logoColor=#181717"/> <img src="https://img.shields.io/badge/Spring-9cf?style=flastic&logo=Spring&logoColor=#6DB33F"/>  <img src="https://img.shields.io/badge/SpringBoot-9cf?style=flastic&logo=Spring-Boot&logoColor=#6DB33F"/> <img src="https://img.shields.io/badge/Hibernate-success?style=flastic&logo=Hibernate&logoColor=#59666C"/> <img src="https://img.shields.io/badge/IntelliJ IDEA-important?style=flastic&logo=IntelliJ-IDEA&logoColor=#181717"/>   \
 <img src="https://img.shields.io/badge/Linux-yellow?style=flastic&logo=Linux&logoColor=#181717"/>
  <img src="https://img.shields.io/badge/Gradle-success?style=flastic&logo=Gradle&logoColor=#181717"/> <img src="https://img.shields.io/badge/Amazon AWS-informational?style=flastic&logo=Amazon-AWS&logoColor=#181717"/>
- <img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
 
  
 
