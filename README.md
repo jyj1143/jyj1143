@@ -8,7 +8,7 @@
     
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyj1143&layout=compact"><br><br>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zbqmgldjfh)](https://solved.ac/jyj1143)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jyj1143)](https://solved.ac/jyj1143)
 
 
 ----
