@@ -13,10 +13,9 @@
 
 ----
 ### Personal Page 💬
+
 <a href="https://velog.io/@jyj1143">
-    <img 
-        src="http://img.shields.io/badge/-Blog-blue?style=flat&logo=velog&link=https://blog.naver.com/zbqmgldjfh"
-        style="height : auto; margin-left : 20px; margin-right : 20px;"/>
+   <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white"/>
 </a>
 
 
