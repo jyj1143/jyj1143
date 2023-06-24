@@ -4,9 +4,9 @@
 ##  Hi, there 👋
 - 🌱 안녕하세요! 성장을 열망하는 개발자 조영재라고 합니다!
 
-
-    
+<!-- 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyj1143&layout=compact"><br><br>
+-->
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jyj1143)](https://solved.ac/jyj1143)
 
@@ -19,7 +19,7 @@
         style="height : auto; margin-left : 20px; margin-right : 20px;"/>
 </a>
 
--->
+
     
 ### Stacks 💻
 
